@@ -1,0 +1,12 @@
+body {background-color: bisque;}
+
+
+.top {
+    border: 20px solid black;
+    justify-content: flex-end;
+display: flex;
+;}
+
+a {
+    padding: 10px;
+}
