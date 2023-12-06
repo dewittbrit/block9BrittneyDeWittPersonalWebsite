@@ -1,14 +1,16 @@
-body {background-color: bisque;}
+body {background-color: rgb(177, 177, 177);}
 
 
 .top {
     border: 20px solid black;
     justify-content: flex-end;
-display: flex;
-;}
+    display: flex;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
 
 a {
-    padding: 10px;
-}
+    padding: 20px;}
+
 img {
-    float: right;}
+    float: right;
+    padding: 80px;}
