@@ -13,4 +13,5 @@ a {
 
 img {
     float: right;
-    padding: 80px;}
+    padding: 40px;
+    border: solid black}
